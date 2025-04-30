@@ -10,7 +10,7 @@ Data augmentation for deep learning-based SSVEP classification via masked princi
 3. tensorflow-gpu == 2.6.0
 4. scipy == 1.9.3
 5. numpy == 1.19.3
-## Training CNN-Former with EEG-ME for the benchmark dataset
+## Training for the benchmark dataset
 1. Download the code.
 2. Download the [benchmark dataset](http://bci.med.tsinghua.edu.cn/download.html) and its [paper](https://ieeexplore.ieee.org/abstract/document/7740878).
 3. Create a model folder to save the model.
