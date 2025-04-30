@@ -67,9 +67,6 @@ def train_datagenerator(batchsize,train_data1,train_data2,train_data3,win_train,
 
             recon_list[i] = recon_x
         x_train1 = np.array(recon_list)
-            # x_train1[:,:,r_m:int(r_m+int(mask_rate*win_train)),:] = 0
-
-
         
         yield x_train1, y_train1
 
