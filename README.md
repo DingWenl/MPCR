@@ -1,7 +1,7 @@
 # MPCR
 Data augmentation for deep learning-based SSVEP classification via masked principal component representation
 # Description
-1. Here are the codes of the MPCR in the paper ["Data augmentation using masked principal component representation for deep learning-based SSVEP-BCIs“]().
+1. Here are the codes of the MPCR in the paper ["Data augmentation using masked principal component representation for deep learning-based SSVEP-BCIs“](https://iopscience.iop.org/article/10.1088/1741-2552/add9d1).
 2. The core code for MPCR can be found in the `data_generator.py` file.
 
 ## The related version information
